@@ -20,6 +20,7 @@
 | `lessons.md` | 已验证的经验（区分已验证结论与待验证想法） |
 | `decisions.md` | 重要决定、日期、依据与被替代记录 |
 | `portable-summary.md` | 便携摘要：由正式档案生成，供不能直接读仓库的聊天工具粘贴使用 |
+| `examples/sync-demo.md` | 同步验证演示文件（示例，不属于正式档案） |
 | `AGENTS.md` | Codex / Cursor 入口（简短，要求读 INSTRUCTIONS.md） |
 | `CLAUDE.md` | Claude Code 入口（简短，要求读 INSTRUCTIONS.md） |
 | `GEMINI.md` | Gemini CLI 入口（简短，要求读 INSTRUCTIONS.md） |
@@ -30,7 +31,7 @@
 ### 开始新任务，先读取我的个人档案
 
 ```
-请先读取我的个人档案知识库（私有仓库 ai-personal-profile）：
+请先读取我的个人档案知识库（私有仓库 https://github.com/cyz327470727-png/ai-personal-profile）：
 按 INSTRUCTIONS.md 的约定，先读 README.md、profile.md、preferences.md，
 再按任务需要读 projects/index.md、lessons.md、decisions.md。
 读完再开始任务，不要每次加载整个仓库。
@@ -39,7 +40,7 @@
 ### 把这次确认的新信息更新并同步到档案
 
 ```
-把这次确认的新信息更新到个人档案知识库（私有仓库 ai-personal-profile）：
+把这次确认的新信息更新到个人档案知识库（私有仓库 https://github.com/cyz327470727-png/ai-personal-profile）：
 只写值得长期保存的事实，注明来源与日期；修改已有事实保留变更记录；
 不要把推测写成事实，不要收入身份证、密码、密钥、手机号等敏感信息。
 改完提交并同步到远端，写清提交说明。
@@ -48,7 +49,7 @@
 ### 换电脑或换 AI 工具，连接档案并继续工作
 
 ```
-我要换电脑/换 AI 工具，请连接我的个人档案知识库（私有仓库 ai-personal-profile）：
+我要换电脑/换 AI 工具，请连接我的个人档案知识库（私有仓库 https://github.com/cyz327470727-png/ai-personal-profile）：
 先克隆或读取该仓库，按 INSTRUCTIONS.md 的约定，先读 README.md、profile.md、
 preferences.md，再按任务读相关项目与经验文件；确认本地是最新版本后再开始工作。
 ```
